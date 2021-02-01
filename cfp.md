@@ -33,7 +33,7 @@ Constraints introduced by low resource environments such as developing countries
 5-page submissions will be _eligible_ for oral or poster presentation. 2-page submissions will be presented as posters. Page limit applies to content only, excluding references.
 
 ### Submission Format
-Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2021.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2021).   
+Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2021).   
 [https://cmt3.research.microsoft.com/PML4DC2021](https://cmt3.research.microsoft.com/PML4DC2021).
 We have also included a [brief guide on](formatting) how to use the CMT template.
 
