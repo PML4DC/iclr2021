@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-leap-day
 description: "Practical ML for Developing Countries Workshop @ ICLR 2020, 
     <br/> Learning under limited/low resource scenarios.  Addis Ababa, Ethiopia"
 basepath: "iclr2020/"
