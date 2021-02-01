@@ -33,18 +33,18 @@ Constraints introduced by low resource environments such as developing countries
 5-page submissions will be _eligible_ for oral or poster presentation. 2-page submissions will be presented as posters. Page limit applies to content only, excluding references.
 
 ### Submission Format
-Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2020).   
-[https://cmt3.research.microsoft.com/PML4DC2020](https://cmt3.research.microsoft.com/PML4DC2020).
+Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2021.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2021).   
+[https://cmt3.research.microsoft.com/PML4DC2021](https://cmt3.research.microsoft.com/PML4DC2021).
 We have also included a [brief guide on](formatting) how to use the CMT template.
 
-Ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2019 or 2020. Please note that submissions are non-archival.
+Ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2019 or 2021. Please note that submissions are non-archival.
 
 ## Important Dates
 
-- Submissions deadline:         **February 14, 2020**
-- Notification:                 February 28, 2020 [Extended]
-- Camera ready:                 March 20, 2020
-- Workshop:                     April 26th, 2020
+- Submissions deadline:         **March 7, 2021**
+- Notification:                 March 26, 2021
+- Camera ready:                 March 30, 2021
+- Workshop:                     April 26th, 2021
 
-Deadlines are at 11:59 EAT (East African Time, **EAT**). **EAT** is **UTC**+03:00.
+Deadlines are at 11:59 Anywhere on Earth (AoE) time.
 

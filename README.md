@@ -12,7 +12,7 @@
 
 <!--
 <div class="update">
-        Update: Given the recent concerns around COVID19, ICLR 2020 will be a fully virtual conference. While the details for remote presentation are being finalized, authors of accepted papers/posters are encouraged to view the <a href="https://iclr.cc/Conferences/2020/virtual"> ICLR virtual presentation guidelines here </a> .
+        Update: Given the recent concerns around COVID19, ICLR 2021 will be a fully virtual conference. While the details for remote presentation are being finalized, authors of accepted papers/posters are encouraged to view the <a href="https://iclr.cc/Conferences/2021/virtual"> ICLR virtual presentation guidelines here </a> .
 </div> 
 -->
 
