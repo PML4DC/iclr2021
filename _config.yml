@@ -12,15 +12,15 @@ navigation:
 - text: DATES
   url: /dates.html
   layout: project
-- text: SCHEDULE
-  url: /schedule.html
-  layout: post
-- text: PAPERS
-  url: /papers.html
-  layout: post
+#- text: SCHEDULE
+#  url: /schedule.html
+#  layout: post
+#- text: PAPERS
+#  url: /papers.html
+#  layout: post
 - text: INSTRUCTIONS
   url: /instructions.html
-- text: VIRTUAL
-  url: /virtual.html
+#- text: VIRTUAL
+#  url: /virtual.html
 - text: ORGANIZERS
   url: /organizers.html
