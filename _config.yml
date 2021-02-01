@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
-description: "Practical ML for Developing Countries Workshop @ ICLR 2020, 
+description: "Practical ML for Developing Countries Workshop @ ICLR 2021, 
     <br/> Learning under limited/low resource scenarios.  Addis Ababa, Ethiopia"
 basepath: "iclr2021/"
 google_analytics: UA-156425047-1
@@ -7,7 +7,7 @@ google_analytics: UA-156425047-1
 navigation:
 - text: HOME
   url: /
-- text: CALL FOR PAPERS
+- text: CfP
   url: /cfp.html
 - text: DATES
   url: /dates.html
