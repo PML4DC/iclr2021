@@ -32,7 +32,7 @@ challenges of learning under limited or low resource environments that are typic
     </div>
     
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot">
         <div class="headshotname"> TBD </div>
             <a href="#" class="headshotaffiliation"> TBD </a>
     </div>
@@ -55,7 +55,7 @@ challenges of learning under limited or low resource environments that are typic
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot">
         <div class="headshotname"> TBD </div>
             <a href="#" class="headshotaffiliation"> TBD </a>
     </div>
@@ -67,7 +67,7 @@ challenges of learning under limited or low resource environments that are typic
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot">
         <div class="headshotname"> TBD </div>
             <a href="#" class="headshotaffiliation"> TBD </a>
     </div> 
