@@ -8,6 +8,8 @@ Constraints introduced by low resource environments such as developing countries
 - Machine learning techniques applied to limited data (e.g. active learning, few-shot and zero-shot learning).
 - Approaches to training and inference on resource constrained devices (such as model quantization, model compression, model distillation, low precision training, model pruning methods, and generalized model optimizations).
 - Alternative learning methods coupled with deep models targeted for low resources settings.
+- Implementation issues with large language and vision models.
+
 
 ### Industry Experience and Applications
 
