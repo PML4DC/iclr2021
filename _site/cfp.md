@@ -8,6 +8,8 @@ Constraints introduced by low resource environments such as developing countries
 - Machine learning techniques applied to limited data (e.g. active learning, few-shot and zero-shot learning).
 - Approaches to training and inference on resource constrained devices (such as model quantization, model compression, model distillation, low precision training, model pruning methods, and generalized model optimizations).
 - Alternative learning methods coupled with deep models targeted for low resources settings.
+- Implementation issues with large language and vision models.
+
 
 ### Industry Experience and Applications
 
@@ -33,18 +35,18 @@ Constraints introduced by low resource environments such as developing countries
 5-page submissions will be _eligible_ for oral or poster presentation. 2-page submissions will be presented as posters. Page limit applies to content only, excluding references.
 
 ### Submission Format
-Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2020).   
-[https://cmt3.research.microsoft.com/PML4DC2020](https://cmt3.research.microsoft.com/PML4DC2020).
+Contributions should be blinded and submitted using the [ICLR template](https://github.com/ICLR/Master-Template/blob/master/archive/iclr2020.zip){:target="_blank" rel="noopener"} via [CMT](https://cmt3.research.microsoft.com/PML4DC2021).   
+[https://cmt3.research.microsoft.com/PML4DC2021](https://cmt3.research.microsoft.com/PML4DC2021).
 We have also included a [brief guide on](formatting) how to use the CMT template.
 
-Ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2019 or 2020. Please note that submissions are non-archival.
+Ongoing work and papers that have appeared in a non-archival venue (workshops, arXiv, etc) are welcome. You may also submit work that has appeared in an archival venue in 2019 or 2021. Please note that submissions are non-archival.
 
 ## Important Dates
 
-- Submissions deadline:         **February 14, 2020**
-- Notification:                 February 28, 2020 [Extended]
-- Camera ready:                 March 20, 2020
-- Workshop:                     April 26th, 2020
+- Submissions deadline:         **March 7th, 2021**
+- Notification:                 March 26th, 2021
+- Camera ready:                 April 15th, 2021
+- Workshop:                     Saturday, May 8th, 2021
 
-Deadlines are at 11:59 EAT (East African Time, **EAT**). **EAT** is **UTC**+03:00.
+Deadlines are at 11:59 Anywhere on Earth (AoE) time.
 

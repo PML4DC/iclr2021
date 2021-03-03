@@ -26,22 +26,24 @@ challenges of learning under limited or low resource environments that are typic
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
-        <div class="headshotname"> TBD </div>
-            <a href="#" class="headshotaffiliation"> TBD </a>
+        <img src="{{basepath}}/images/speakers/emily_bender.jpg" class="headshot">
+        <div class="headshotname"> Emily M. Bender </div>
+            <a href="https://faculty.washington.edu/ebender/" class="headshotaffiliation"> Professor, University of Washington </a>
     </div>
     
-    <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot">
-        <div class="headshotname"> TBD </div>
-            <a href="#" class="headshotaffiliation"> TBD </a>
-    </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/mark_weber.jpg" class="headshot">
         <div class="headshotname"> TBD </div>
-            <a href="#" class="headshotaffiliation"> TBD </a>
+            <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-mark.weber" class="headshotaffiliation"> Strategy & Operations Lead, MIT-IBM Watson AI Lab </a>
     </div> 
+
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/chinasa_okolo.jpg" class="headshot">
+        <div class="headshotname"> Chinasa T. Okolo </div>
+            <a href="www.chinasaokolo.com" class="headshotaffiliation"> Ph.D. Student, Cornell University </a>
+    </div>
+
 </div>
 
 
@@ -50,20 +52,20 @@ challenges of learning under limited or low resource environments that are typic
 <div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
-        <div class="headshotname"> TBD </div>
-            <a href="#" class="headshotaffiliation"> TBD </a>
+        <div class="headshotname"> Priya L. Donti </div>
+            <a href="https://priyadonti.com/" class="headshotaffiliation"> Ph.D. Student, Carnegie Mellon University</a>
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot">
-        <div class="headshotname"> TBD </div>
-            <a href="#" class="headshotaffiliation"> TBD </a>
+        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <div class="headshotname"> Simone Fobi </div>
+            <a href="https://nsutezo.github.io/" class="headshotaffiliation"> Ph.D. Student, Columbia University </a>
     </div>
     
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
-        <div class="headshotname"> TBD </div>
-            <a href="#" class="headshotaffiliation"> TBD </a>
+        <div class="headshotname"> Issabele Tingzon </div>
+            <a href="https://ph.linkedin.com/in/isabelletingzon" class="headshotaffiliation"> Thinking Machines Data Science </a>
     </div>
 
     <div class="iblock headshotbox "> 
