@@ -57,7 +57,7 @@ challenges of learning under limited or low resource environments that are typic
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/simone_fobi.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/simone_fobi.png" class="headshot">
         <div class="headshotname"> Simone Fobi </div>
             <a href="https://nsutezo.github.io/" class="headshotaffiliation"> Ph.D. Student, Columbia University </a>
     </div>
