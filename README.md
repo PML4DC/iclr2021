@@ -51,9 +51,9 @@ challenges of learning under limited or low resource environments that are typic
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/priya_donti.jpg" class="headshot">
         <div class="headshotname"> Priya L. Donti </div>
-            <a href="https://priyadonti.com/" class="headshotaffiliation"> Ph.D. Student, Carnegie Mellon University</a>
+            <a href="https://priyadonti.com/" class="headshotaffiliation"> Ph.D. Student, Carnegie Mellon University, Climate Change AI</a>
     </div>
 
     <div class="iblock headshotbox "> 
