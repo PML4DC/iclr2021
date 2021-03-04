@@ -57,13 +57,13 @@ challenges of learning under limited or low resource environments that are typic
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/simone_fobi.jpg" class="headshot">
         <div class="headshotname"> Simone Fobi </div>
             <a href="https://nsutezo.github.io/" class="headshotaffiliation"> Ph.D. Student, Columbia University </a>
     </div>
     
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <img src="{{basepath}}/images/speakers/issabele_tingzon.jpg" class="headshot">
         <div class="headshotname"> Issabele Tingzon </div>
             <a href="https://ph.linkedin.com/in/isabelletingzon" class="headshotaffiliation"> Thinking Machines Data Science </a>
     </div>
