@@ -61,18 +61,19 @@ challenges of learning under limited or low resource environments that are typic
         <div class="headshotname"> Simone Fobi </div>
             <a href="https://nsutezo.github.io/" class="headshotaffiliation"> Ph.D. Student, Columbia University </a>
     </div>
+
+  <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/toby_kurien.jpg" class="headshot">
+        <div class="headshotname"> Toby Kurien </div>
+            <a href="https://researcher.watson.ibm.com/researcher/view.php?person=za-toby.kurien" class="headshotaffiliation"> IBM Research </a>
+    </div> 
     
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/issabele_tingzon.jpg" class="headshot">
         <div class="headshotname"> Issabele Tingzon </div>
             <a href="https://ph.linkedin.com/in/isabelletingzon" class="headshotaffiliation"> Thinking Machines Data Science </a>
     </div>
-
-    <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot">
-        <div class="headshotname"> TBD </div>
-            <a href="#" class="headshotaffiliation"> TBD </a>
-    </div> 
+  
 </div>
 
 ### Commitment to Diversity
