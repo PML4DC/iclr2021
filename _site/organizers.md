@@ -63,13 +63,34 @@
 
 </div>
 
+<br>
 
 ## Program Committee
 
-| Name          | Company/Institute |
-| ------------- | ----------------- |
-| TBD           |TBD                |
-
+| Name			| Company/Institute |
+| :---			|:---		    |
+| Ehi Nosakhare		| Microsoft|
+| Evan Rosenman		| Harvard University|
+| Geoffrey Siwo		| University of Notre Dame | 
+| Irene	Chen		| MIT|
+| Jayson Salkey		| New York University|
+| Julius Adebayo	| MIT| 
+| Kentaro Toyama	| University of Michigan|
+| Kianté Brantley	| University of Maryland College Park|
+| Kris Sankaran		| University of Wisconsin-Madison| 
+| krystal maughan	| University of Vermont|
+| Kush	Varshney	| IBM Research|
+| Michael Best		| Georgia Tech| 
+| Michael Melese	| Addis Ababa University|
+| Nenad	Tomasev		| Deepmind| 
+| Pablo Samuel		| Google|
+| Paidamoyo Chapfuwa	| Duke University|
+| Raesetje Sefala 	| University of the Witwatersrand| 
+| Samy Bengio 		| Google Research, Brain Team|
+| sileye Ba 		| Dailymotion|
+| Tejumade Afonja	| AI Saturdays Lagos| 
+| Thomas Jones		| George Mason University|
+| Victor Silva		| University of Alberta|
 
 ## Contact
 
