@@ -87,6 +87,7 @@
 | Paidamoyo Chapfuwa	| Duke University|
 | Raesetje Sefala 	| University of the Witwatersrand| 
 | Samy Bengio 		| Google Research, Brain Team|
+| Sanmi Koyejo		| University of Illinois at Urbana-Champaign|
 | sileye Ba 		| Dailymotion|
 | Tejumade Afonja	| AI Saturdays Lagos| 
 | Thomas Jones		| George Mason University|
