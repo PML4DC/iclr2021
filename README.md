@@ -26,9 +26,8 @@ challenges of learning under limited or low resource environments that are typic
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/emily_bender.jpg" class="headshot">
-        <div class="headshotname"> Emily M. Bender </div>
-            <a href="https://faculty.washington.edu/ebender/" class="headshotaffiliation"> Professor, University of Washington </a>
+        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <div class="headshotname"> TBD </div>
     </div>
     
 
