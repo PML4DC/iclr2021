@@ -25,12 +25,7 @@ challenges of learning under limited or low resource environments that are typic
 ## Keynote Speakers
 
 <div>
-    <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
-        <div class="headshotname"> TBD </div>
-    </div>
     
-
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/mark_weber.jpg" class="headshot">
         <div class="headshotname"> Mark Weber </div>
@@ -41,6 +36,11 @@ challenges of learning under limited or low resource environments that are typic
         <img src="{{basepath}}/images/speakers/chinasa_okolo.jpg" class="headshot">
         <div class="headshotname"> Chinasa T. Okolo </div>
             <a href="www.chinasaokolo.com" class="headshotaffiliation"> Ph.D. Student, Cornell University </a>
+    </div>
+
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <div class="headshotname"> TBD </div>
     </div>
 
 </div>
