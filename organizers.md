@@ -69,7 +69,6 @@
 
 | Name			| Company/Institute |
 | :---			|:---		    |
-| Ehi Nosakhare		| Microsoft|
 | Evan Rosenman		| Harvard University|
 | Geoffrey Siwo		| University of Notre Dame | 
 | Irene	Chen		| MIT|
@@ -81,7 +80,6 @@
 | krystal maughan	| University of Vermont|
 | Kush	Varshney	| IBM Research|
 | Michael Best		| Georgia Tech| 
-| Michael Melese	| Addis Ababa University|
 | Nenad	Tomasev		| Deepmind| 
 | Pablo Samuel		| Google|
 | Paidamoyo Chapfuwa	| Duke University|
