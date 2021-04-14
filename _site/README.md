@@ -26,9 +26,8 @@ challenges of learning under limited or low resource environments that are typic
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/emily_bender.jpg" class="headshot">
-        <div class="headshotname"> Emily M. Bender </div>
-            <a href="https://faculty.washington.edu/ebender/" class="headshotaffiliation"> Professor, University of Washington </a>
+        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <div class="headshotname"> TBD </div>
     </div>
     
 
@@ -68,11 +67,20 @@ challenges of learning under limited or low resource environments that are typic
             <a href="https://researcher.watson.ibm.com/researcher/view.php?person=za-toby.kurien" class="headshotaffiliation"> IBM Research </a>
     </div> 
     
+  <div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/issabele_tingzon.jpg" class="headshot">
         <div class="headshotname"> Issabele Tingzon </div>
             <a href="https://ph.linkedin.com/in/isabelletingzon" class="headshotaffiliation"> Thinking Machines Data Science </a>
     </div>
+
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot">
+        <div class="headshotname"> Rob Beyer </div>
+            <a href="https://ke.linkedin.com/in/rob-beyer-64690925" class="headshotaffiliation"> Villgro Africa </a>
+    </div>
+  
+</div>
   
 </div>
 
