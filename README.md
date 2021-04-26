@@ -26,12 +26,6 @@ challenges of learning under limited or low resource environments that are typic
 
 <div>
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
-        <div class="headshotname"> TBD </div>
-    </div>
-    
-
-    <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/mark_weber.jpg" class="headshot">
         <div class="headshotname"> Mark Weber </div>
             <a href="https://researcher.watson.ibm.com/researcher/view.php?person=ibm-mark.weber" class="headshotaffiliation"> Strategy & Operations Lead, MIT-IBM Watson AI Lab </a>
@@ -43,6 +37,11 @@ challenges of learning under limited or low resource environments that are typic
             <a href="www.chinasaokolo.com" class="headshotaffiliation"> Ph.D. Student, Cornell University </a>
     </div>
 
+    <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
+        <div class="headshotname"> TBD </div>
+    </div>
+    
 </div>
 
 
