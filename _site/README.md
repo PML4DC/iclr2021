@@ -49,6 +49,15 @@ challenges of learning under limited or low resource environments that are typic
 ## Panelists
 
 <div>
+
+<div>
+  <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/sibusisiwe_makhanya.png" class="headshot">
+        <div class="headshotname"> Sibusisiwe Makhanya </div>
+            <a href="https://www.linkedin.com/mwlite/in/sibusisiwe-makhanya-5799872a"> Research Manager, IBM Research Africa </a>
+    </div> 
+    
+
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/priya_donti.jpg" class="headshot">
         <div class="headshotname"> Priya L. Donti </div>
@@ -61,12 +70,6 @@ challenges of learning under limited or low resource environments that are typic
             <a href="https://nsutezo.github.io/" class="headshotaffiliation"> Ph.D. Student, Columbia University </a>
     </div>
 
-  <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/toby_kurien.jpg" class="headshot">
-        <div class="headshotname"> Toby Kurien </div>
-            <a href="https://researcher.watson.ibm.com/researcher/view.php?person=za-toby.kurien" class="headshotaffiliation"> IBM Research </a>
-    </div> 
-    
   <div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/issabele_tingzon.jpg" class="headshot">
