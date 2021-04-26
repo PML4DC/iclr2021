@@ -25,10 +25,6 @@ challenges of learning under limited or low resource environments that are typic
 ## Keynote Speakers
 
 <div>
-<<<<<<< HEAD
-=======
-    
->>>>>>> 2a14b8fab69c42a4f42bdab07e6e774bfc60193e
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/mark_weber.jpg" class="headshot">
         <div class="headshotname"> Mark Weber </div>
@@ -45,12 +41,6 @@ challenges of learning under limited or low resource environments that are typic
         <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
         <div class="headshotname"> TBD </div>
     </div>
-<<<<<<< HEAD
-    
-=======
-
->>>>>>> 2a14b8fab69c42a4f42bdab07e6e774bfc60193e
-</div>
 
 
 ## Panelists

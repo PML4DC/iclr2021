@@ -31,7 +31,7 @@
 
     <div class="iblock headshotbox ">
      <a   target='_blank'  href="https://esube.github.io/">
-       <img src="{{basepath}}/images/organizers/esube.jpg" class="headshot">        
+       <img src="{{basepath}}/images/organizers/esube.jpg" class="headshot">
       </a>
         <div class="headshotname"> Esube Bekele </div>
         <a href="https://esube.github.io/"  target='_blank' class="headshotaffiliation"> In-Q-Tel </a>
