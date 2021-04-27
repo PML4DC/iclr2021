@@ -70,7 +70,7 @@ challenges of learning under limited or low resource environments that are typic
   <div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/issabele_tingzon.jpg" class="headshot">
-        <div class="headshotname"> Issabele Tingzon </div>
+        <div class="headshotname"> Isabelle Tingzon </div>
             <a href="https://ph.linkedin.com/in/isabelletingzon" class="headshotaffiliation"> Thinking Machines Data Science </a>
     </div>
 
