@@ -76,10 +76,17 @@ challenges of learning under limited or low resource environments that are typic
     </div>
 
     <div class="iblock headshotbox "> 
+        <img src="{{basepath}}/images/speakers/deogratias_mzurikwao.png" class="headshot">
+        <div class="headshotname"> Dr. Deogratias Mzurikwao </div>
+            <a href="https://uk.linkedin.com/in/deogratias-mzurikwao-90505947" class="headshotaffiliation"> Villgro Africa </a>
+    </div>
+<!--
+    <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot">
         <div class="headshotname"> Rob Beyer </div>
             <a href="https://ke.linkedin.com/in/rob-beyer-64690925" class="headshotaffiliation"> Villgro Africa </a>
-    </div>
+    </div> 
+-->
 </div>
   
 </div>
