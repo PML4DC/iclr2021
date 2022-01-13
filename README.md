@@ -25,7 +25,6 @@ challenges of learning under limited or low resource environments that are typic
 ## Keynote Speakers
 
 <div>
-    
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/mark_weber.jpg" class="headshot">
         <div class="headshotname"> Mark Weber </div>
@@ -37,16 +36,10 @@ challenges of learning under limited or low resource environments that are typic
         <div class="headshotname"> Chinasa T. Okolo </div>
             <a href="www.chinasaokolo.com" class="headshotaffiliation"> Ph.D. Student, Cornell University </a>
     </div>
-
-    <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd.jpg" class="headshot">
-        <div class="headshotname"> TBD </div>
-    </div>
-
 </div>
 
-
 ## Panelists
+<div>
 
 <div>
   <div class="iblock headshotbox "> 
@@ -55,6 +48,7 @@ challenges of learning under limited or low resource environments that are typic
             <a href="https://www.linkedin.com/mwlite/in/sibusisiwe-makhanya-5799872a"> Research Manager, IBM Research Africa </a>
     </div> 
     
+
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/priya_donti.jpg" class="headshot">
         <div class="headshotname"> Priya L. Donti </div>
@@ -66,24 +60,26 @@ challenges of learning under limited or low resource environments that are typic
         <div class="headshotname"> Simone Fobi </div>
             <a href="https://nsutezo.github.io/" class="headshotaffiliation"> Ph.D. Student, Columbia University </a>
     </div>
+</div>
 
   <div>
     <div class="iblock headshotbox "> 
         <img src="{{basepath}}/images/speakers/issabele_tingzon.jpg" class="headshot">
-        <div class="headshotname"> Issabele Tingzon </div>
+        <div class="headshotname"> Isabelle Tingzon </div>
             <a href="https://ph.linkedin.com/in/isabelletingzon" class="headshotaffiliation"> Thinking Machines Data Science </a>
     </div>
 
     <div class="iblock headshotbox "> 
-        <img src="{{basepath}}/images/speakers/tbd-male.jpg" class="headshot">
-        <div class="headshotname"> Rob Beyer </div>
-            <a href="https://ke.linkedin.com/in/rob-beyer-64690925" class="headshotaffiliation"> Villgro Africa </a>
+        <img src="{{basepath}}/images/speakers/deogratias_mzurikwao.png" class="headshot">
+        <div class="headshotname"> Dr. Deogratias Mzurikwao </div>
+            <a href="https://uk.linkedin.com/in/deogratias-mzurikwao-90505947" class="headshotaffiliation"> Villgro Africa </a>
     </div>
-  
 </div>
   
 </div>
 
+
 ### Commitment to Diversity
+
 
 We expect the workshop topic areas would attract a wide range of participants such as ML researchers, industry professionals, government stakeholders, policymakers, healthcare workers, social scientists, and educators. We believe the focus on practical solutions  for developing countries coincides well with the historic first time  a major machine learning conference is being held in Africa. This will help attract a large pool of local talent that are directly affected by the problem this workshop addresses. With most of the organizers of the workshop having previous experience in organizing diversity and inclusion workshops such as Black in AI and the Deep Learning Indaba, utmost effort has been  made to attract a diverse (gender, geography, background) group of presenters and participants.
