@@ -11,6 +11,8 @@ navigation:
   url: /cfp.html
 - text: DATES
   url: /dates.html
+- text: PAPERS
+  url: /papers.html
   layout: project
 - text: ORGANIZERS
   url: /organizers.html

@@ -46,7 +46,7 @@ Ongoing work and papers that have appeared in a non-archival venue (workshops, a
 - Submissions deadline:         <del>March 15th, 2021</del>
 - Notification:                 <del>March 26th, 2021</del>
 - Camera ready:                 <del>April 15th, 2021</del>
-- Workshop:                     **Friday, May 7th, 2021**
+- Workshop:                     <s>**Friday, May 7th, 2021**</s>
 
 <!--Deadlines are at 11:59 Anywhere on Earth (AoE) time.-->
 

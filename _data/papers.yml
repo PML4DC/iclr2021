@@ -1,0 +1,59 @@
+- title: "Zero-shot spoken language understanding for English-Hindi: An easy victory against word order divergence"
+  kind: spotlight 
+  authors: Judith Gaspers (Amazon); Quynh Do (Amazon)
+  id: 7
+
+- title: Automated Detection of Food Water-Borne Parasites in Low Cost Smartphone Microscope Image
+  kind: spotlight 
+  authors: Suprim Nakarmi (NAAMII); Retina Shretha (KIAS); Sanam Pudasaini (KIAS); Basant Giri (KIAS); Bishesh Khanal (NAAMII)
+  id: 17
+
+- title: Efficient Click-Through Rate Prediction for Developing Countries via Tabular Learning
+  kind: spotlight   
+  authors: Joonyoung Yi (Hyperconnect); Buru Chang (Hyperconnect)
+  id: 21
+
+- title: Boosting Classification Accuracy of Fertile Sperm Cell Images leveraging cDCGAN   
+  kind: poster
+  authors: Dipam Paul (Emory University ); Alankrita Tewari (KIIT University); Jiwoong Jeong (Emory University); Imon Banerjee (Emory University)
+  id: 8
+
+- title: Prediction of Tuberculosis using U-Net and segmentation techniques 
+  kind: poster
+  authors: Dennis H Núñez-Fernández (Universidad Peruana Cayetano Heredia); Lamberto Ballan (University of Padova); Gabriel Jiménez Avalos (Universidad Peruana Cayetano Heredia); Jorge Coronel (Universidad Peruana Cayetano Heredia ); Patricia Sheen (Universidad Peruana Cayetano Heredia); Mirko Zimic (Universidad Peruana Cayetano Heredia)c
+  id: 9
+
+- title: Detection of COVID-19 Disease using Deep Neural Networks with Ultrasound Imaging
+  kind: poster
+  authors: Carlos Rojas-Azabache (Universidad Nacional Mayor de San Marcos); Karen Vilca-Janampa (Universidad Nacional Mayor de San Marcos ); Renzo Guerrero-Huayta (Universidad Nacional de Ingeniería); Dennis H Núñez-Fernández (Universidad Peruana Cayetano Heredia)
+  id: 10
+
+- title: Data-driven Weight Initialization with Sylvester Solvers
+  kind: poster   
+  authors: Debasmit Das (Qualcomm AI Research); Yash Bhalgat (Qualcomm AI Research); Fatih Porikli (Qualcomm)
+  id: 11
+
+- title: Bambara Language Dataset for Sentiment Analysis   
+  kind: poster   
+  authors: Chayma Fourati (icompass)
+  id: 14
+
+- title: "ANEA: Distant Supervision for Low-Resource Named Entity Recognition"
+  kind: poster   
+  authors: Michael A. Hedderich (Saarland University, Saarland Informatics Campus); Lukas Lange (Bosch Center for Aritificial Intelligence); Dietrich Klakow (Saarland University)
+  id: 15
+
+- title: Fairly Estimating Socioeconomic Status Under Costly Feature Acquisition (Poster Presentation)   
+  kind: poster
+  authors: Ritika Brahmadesam (Ossining High School); Kush R Varshney (IBM Research)
+  id: 16
+
+- title: "Computationally Accelerating Protein-Ligand Docking for Neglected Tropical Diseases: a case study on Drug Repurposing for Leishmaniasis"
+  kind: poster
+  authors: Hassan Kane (MIT); Loïc Kwate Dassi (National School of Computer Science and Applied Mathematics of Grenoble); Ebenezer Nkwate (WL Research)
+  id: 18
+
+- title: Problem And Solution Documentation Template For Machine Learning Competitions To Enhance Explainability, Reproducibility, And Collaboration Between Stakeholders 
+  kind: poster  
+  authors: Oluwaseun Hamzat (Data Science Nigeria); Haleemah Oladosu (Data Science Nigeria)
+  id: 20
